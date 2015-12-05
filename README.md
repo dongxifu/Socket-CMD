@@ -1,6 +1,7 @@
 # Socket-CMD
-A remote control tool for IADA which is more powerful
-A new five chess for C++ which is more efficient. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+A remote control tool for IADA which is more powerful.
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
 http://www.apache.org/licenses/LICENSE-2.0
 
